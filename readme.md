@@ -1,4 +1,4 @@
 # Data Analysis with Python
 <br>by Coursera
 
-Course 7 from 9, of IBM Data Analyst
+Course 7 from 9, part of IBM Data Analyst Professional Certificate
